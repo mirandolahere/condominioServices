@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Delaware.Desarrollo.Condominio.ContractoRepositorio\Delaware.Desarrollo.Condominio.ContractoRepositorio.csproj" />
+    <ProjectReference Include="..\Delaware.Desarrollo.Condominio.Dominio\Delaware.Desarrollo.Condominio.Dominio.csproj" />
+    <ProjectReference Include="..\Delaware.Desarrollo.Condominio.SqlRepositorio\Delaware.Desarrollo.Condominio.SqlRepositorio.csproj" />
+  </ItemGroup>
+
+</Project>

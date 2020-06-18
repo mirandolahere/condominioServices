@@ -1,0 +1,250 @@
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.csprojAssemblyReference.cache
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\web.config
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.exe
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.deps.json
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.runtimeconfig.json
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.runtimeconfig.dev.json
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.ContractoRepositorio.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Contrato.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Dominio.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Implementacion.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.SqlRepositorio.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Contrato.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Dominio.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Implementacion.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.ContractoRepositorio.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.SqlRepositorio.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\staticwebassets\Delaware.Desarrollo.Condominio.Services.StaticWebAssets.Manifest.cache
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\staticwebassets\Delaware.Desarrollo.Condominio.Services.StaticWebAssets.xml
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.AssemblyInfoInputs.cache
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.AssemblyInfo.cs
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.RazorTargetAssemblyInfo.cache
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.csproj.CopyComplete
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\web.config
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.exe
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.deps.json
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.runtimeconfig.json
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.runtimeconfig.dev.json
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.ContractoRepositorio.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Contrato.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Dominio.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Implementacion.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.SqlRepositorio.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Contrato.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Dominio.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Implementacion.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.ContractoRepositorio.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.SqlRepositorio.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.csprojAssemblyReference.cache
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\staticwebassets\Delaware.Desarrollo.Condominio.Services.StaticWebAssets.Manifest.cache
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\staticwebassets\Delaware.Desarrollo.Condominio.Services.StaticWebAssets.xml
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.AssemblyInfoInputs.cache
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.AssemblyInfo.cs
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.RazorTargetAssemblyInfo.cache
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.csproj.CopyComplete
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Services\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Services.pdb

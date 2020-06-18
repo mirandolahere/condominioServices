@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Delaware.Desarrollo.Condominio.Contrato\Delaware.Desarrollo.Condominio.Contrato.csproj" />
+    <ProjectReference Include="..\Delaware.Desarrollo.Condominio.Dominio\Delaware.Desarrollo.Condominio.Dominio.csproj" />
+    <ProjectReference Include="..\Delaware.Desarrollo.Condominio.Negocio\Delaware.Desarrollo.Condominio.Negocio.csproj" />
+  </ItemGroup>
+
+</Project>

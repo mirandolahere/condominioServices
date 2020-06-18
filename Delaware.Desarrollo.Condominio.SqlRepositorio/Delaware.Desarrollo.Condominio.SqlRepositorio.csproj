@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.30" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Delaware.Desarrollo.Condominio.ContractoRepositorio\Delaware.Desarrollo.Condominio.ContractoRepositorio.csproj" />
+    <ProjectReference Include="..\Delaware.Desarrollo.Condominio.Dominio\Delaware.Desarrollo.Condominio.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>

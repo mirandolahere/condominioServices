@@ -1,0 +1,30 @@
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.deps.json
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.ContractoRepositorio.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Dominio.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.SqlRepositorio.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.ContractoRepositorio.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Dominio.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.SqlRepositorio.pdb
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.csprojAssemblyReference.cache
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.AssemblyInfoInputs.cache
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.AssemblyInfo.cs
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.csproj.CopyComplete
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.dll
+C:\Fuentes\Condominio\DelawareCondominio\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.deps.json
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.ContractoRepositorio.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Dominio.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.SqlRepositorio.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.ContractoRepositorio.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Dominio.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\bin\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.SqlRepositorio.pdb
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.csprojAssemblyReference.cache
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.AssemblyInfoInputs.cache
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.AssemblyInfo.cs
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.csproj.CopyComplete
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.dll
+C:\_SVN DLW\Condominios_App_Services\branches\Dev_Sprint_01\Delaware.Desarrollo.Condominio.Negocio\obj\Debug\netcoreapp3.1\Delaware.Desarrollo.Condominio.Negocio.pdb

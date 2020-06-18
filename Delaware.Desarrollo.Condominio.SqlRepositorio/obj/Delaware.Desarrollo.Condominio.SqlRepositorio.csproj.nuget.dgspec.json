@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.SqlRepositorio\\Delaware.Desarrollo.Condominio.SqlRepositorio.csproj": {}
+  },
+  "projects": {
+    "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.ContractoRepositorio\\Delaware.Desarrollo.Condominio.ContractoRepositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.ContractoRepositorio\\Delaware.Desarrollo.Condominio.ContractoRepositorio.csproj",
+        "projectName": "Delaware.Desarrollo.Condominio.ContractoRepositorio",
+        "projectPath": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.ContractoRepositorio\\Delaware.Desarrollo.Condominio.ContractoRepositorio.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.ContractoRepositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.Dominio\\Delaware.Desarrollo.Condominio.Dominio.csproj": {
+                "projectPath": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.Dominio\\Delaware.Desarrollo.Condominio.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.Dominio\\Delaware.Desarrollo.Condominio.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.Dominio\\Delaware.Desarrollo.Condominio.Dominio.csproj",
+        "projectName": "Delaware.Desarrollo.Condominio.Dominio",
+        "projectPath": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.Dominio\\Delaware.Desarrollo.Condominio.Dominio.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.SqlRepositorio\\Delaware.Desarrollo.Condominio.SqlRepositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.SqlRepositorio\\Delaware.Desarrollo.Condominio.SqlRepositorio.csproj",
+        "projectName": "Delaware.Desarrollo.Condominio.SqlRepositorio",
+        "projectPath": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.SqlRepositorio\\Delaware.Desarrollo.Condominio.SqlRepositorio.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.SqlRepositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.ContractoRepositorio\\Delaware.Desarrollo.Condominio.ContractoRepositorio.csproj": {
+                "projectPath": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.ContractoRepositorio\\Delaware.Desarrollo.Condominio.ContractoRepositorio.csproj"
+              },
+              "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.Dominio\\Delaware.Desarrollo.Condominio.Dominio.csproj": {
+                "projectPath": "C:\\_SVN DLW\\Condominios_App_Services\\branches\\Dev_Sprint_01\\Delaware.Desarrollo.Condominio.Dominio\\Delaware.Desarrollo.Condominio.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
